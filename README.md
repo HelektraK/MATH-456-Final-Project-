@@ -103,7 +103,7 @@ Full figures, derivations, and quantitative results are provided in the paper.
 
 ## Repository Contents
 
-- `456_FINAL_PROJECT.pdf` — Final written report
+- `FINAL_PROJECT.pdf` — Final written report
 - `LIF_SNN_PresentationFINAL.pdf` — Presentation slides
 - `*.ipynb` — Simulation, analysis, and training notebooks 
 

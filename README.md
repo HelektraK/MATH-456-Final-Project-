@@ -87,7 +87,7 @@ Full figures, derivations, and quantitative results are provided in the paper.
 ## Project Paper
 
 **Final Report (PDF):**  
-[456_FINAL_PROJECT.pdf](456_FINAL_PROJECT-3.pdf)
+[FINAL_PROJECT.pdf](FINAL_PROJECT.pdf)
 
 > **Note:** GitHub may not render this PDF inline. Please download to view.
 
